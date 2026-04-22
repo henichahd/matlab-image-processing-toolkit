@@ -34,4 +34,14 @@ avec export automatique des résultats et métriques de qualité (PSNR, MSE).
 - MATLAB **R2020b** ou supérieur
 - **Image Processing Toolbox**
 - Compatible **MATLAB Online** (MATLAB Drive)
+## Author
 
+**Chahd Heni** — Biomedical Engineering Student  
+Higher Institute of Medical Technologies of Tunis (ISTMT)  
+[GitHub](https://github.com/henichahd)
+
+---
+
+## License
+
+MIT License
